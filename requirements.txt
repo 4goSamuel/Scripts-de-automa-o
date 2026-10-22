@@ -1,0 +1,4 @@
+# Versões instaladas e testadas nesta máquina (Python 3.12.10, Windows 10)
+PyAutoGUI==0.9.54
+PyGetWindow==0.0.9
+keyboard==0.13.5

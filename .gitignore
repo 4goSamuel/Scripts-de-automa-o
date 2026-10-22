@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Segredos e configurações locais
+.env
+.env.*
+*.key
+*.pem
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+~$*
+
+# Editores e sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
